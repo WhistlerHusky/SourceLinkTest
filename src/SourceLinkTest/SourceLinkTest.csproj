@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SourceLink.Create.CommandLine" Version="2.7.6" />
+    <PackageReference Include="SourceLink.Create.GitHub" Version="2.7.6" />
+  </ItemGroup>
+
+</Project>
